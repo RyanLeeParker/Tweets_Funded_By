@@ -1,4 +1,4 @@
-# Tweets_Funded_By
+# Tweets_Funded_By (working title)
 Twitter Bot for Election Transparency
 
 This twitter bot uses Python scripts to make calls to the Twitter API using Tweepy.
